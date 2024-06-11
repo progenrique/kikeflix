@@ -1,0 +1,29 @@
+.header {
+  display: flex;
+}
+
+.header-nav {
+  display: flex;
+  justify-content: space-between;
+  height: 9vh;
+  align-items: center;
+}
+
+.header-form {
+  width: 40%;
+}
+
+@media (min-width: 576px) {
+}
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+}
+
+@media (min-width: 1200px) {
+}
+
+@media (min-width: 1400px) {
+}

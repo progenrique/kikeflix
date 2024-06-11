@@ -1,0 +1,12 @@
+.footer {
+  display: flex;
+  justify-content: space-around;
+}
+
+.webs {
+  display: flex;
+  justify-content: space-around;
+}
+.webs a {
+  margin-left: 1rem;
+}
