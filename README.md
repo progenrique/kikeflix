@@ -1,8 +1,23 @@
-# React + Vite
+# KiKeFlix ver trailers de peliculas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+proyecto en el cual nos conectamos a la api themoviedb para obtener el ranking poster y url de los trailers 
 
-Currently, two official plugins are available:
+## Tecnologías Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- CSS3
+- JavaScript
+
+
+## Funcionalidades
+- [x] Página responsiva
+- [x] Animaciones con CSS
+- [x] Interacción mediante React
+- [x] Creacion de componentes funcionales y reutilizables 
+
+## Captura de Pantalla
+![Captura del proyecto](src/assets/capturaPeliculas.png)
+
+## Link de vercel 
+[KikeFlix](https://proyectflix.vercel.app/ "Title")
+
